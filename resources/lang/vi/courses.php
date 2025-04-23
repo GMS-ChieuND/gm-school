@@ -1,4 +1,4 @@
 <?php
-    return [    "No Data Found" => "No Data Found",
+    return [    "No Data Found" => "Không tìm thấy dữ liệu",
         ]
 ?>

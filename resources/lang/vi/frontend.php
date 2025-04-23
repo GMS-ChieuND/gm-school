@@ -1,4 +1,4 @@
 <?php
-    return [    "Hour" => "Hour",
+    return [    "Hour" => "Giờ",
         ]
 ?>

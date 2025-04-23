@@ -1,5 +1,5 @@
 <?php
-    return [    "In Minute" => "In Minute",
-    "Others" => "Others",
+    return [    "In Minute" => "Trong phút",
+    "Others" => "Khác",
         ]
 ?>
